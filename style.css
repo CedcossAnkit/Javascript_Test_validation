@@ -1,0 +1,12 @@
+#form{
+    border: 1px solid red;
+    width: 300px;
+    padding: 30px;
+    text-align: center;
+    margin: auto;
+}
+
+*{
+    font-family: sans-serif;
+
+}
